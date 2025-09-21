@@ -1,4 +1,4 @@
 # Repaso Git
 
 * Introducción
-  El grafo de Git
+* El grafo de Git
