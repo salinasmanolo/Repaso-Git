@@ -1,3 +1,0 @@
-# Repaso Git
-
-* Introducción
